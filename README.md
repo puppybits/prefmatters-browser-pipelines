@@ -2,6 +2,14 @@
 
 --- 
 
+Slideshow at: http://puppybits.github.io/prefmatters-browser-pipelines
+
+Bobby Schultz. R/GA Tech Lead. 
+
+twitter: @puppybits
+
+---
+
 ## Browser are built to render STATIC pages
 
 ---
